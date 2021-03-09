@@ -1,0 +1,90 @@
+.header {
+  margin: 0;
+  padding: 0;
+  border: 5px solid maroon;
+  background-color: darkgray;
+  color: purple;
+}
+* {
+  margin: 0;
+  padding: 0;
+  background: rgb(201, 250, 201);
+  background-repeat: no-repeat;
+  justify-content: center;
+}
+.images {
+  margin: 0;
+  padding: 0;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.camel {
+  background: none;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.chameleon {
+  background: none;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.cicada {
+  background: none;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 1px;
+}
+.panda {
+  background: none;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.pigeon {
+  background: none;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.teddy {
+  background: none;
+  position: absolute;
+  margin-top: 425px;
+  margin-left: 500px;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
